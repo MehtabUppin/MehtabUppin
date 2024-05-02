@@ -6,4 +6,4 @@ Table of Contents  1): Features1): Features
 Prerequisites:
 
 A text Editor.(VS CODE)
-Basic HTML and CSS
+Basic HTML and CSS.
